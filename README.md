@@ -1,3 +1,8 @@
+## links
+http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/
+http://blog.auth0.com/2014/01/15/auth-with-socket-io/
+http://jpadilla.com/post/73791304724/auth-with-json-web-tokens
+
 ## angular-token-auth
 
 Example of Token-based authentication in [AngularJS](http://angularjs.org) with [Express](http://expressjs.com). 
